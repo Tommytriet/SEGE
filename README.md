@@ -1,2 +1,3 @@
-# SEGE
-using Unet for segementation
+# POLYP SEGEMENTATION
+Using Unet for POLYP SEGEMENTATION. Use this file in kaggle
+
